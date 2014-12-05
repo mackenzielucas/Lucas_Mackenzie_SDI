@@ -4,3 +4,6 @@ Mackenzie Lucas
 Expressions Assignment
 Industry
 */
+
+
+console.log
