@@ -7,4 +7,4 @@ Personal
 
 var months = 4;
 
-console.log
+console.log("I will drink " + months * 28 +
