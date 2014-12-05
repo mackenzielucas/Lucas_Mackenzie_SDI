@@ -5,5 +5,7 @@ Expressions Assignment
 Industry
 */
 
+var months = 4;
+var sitespermonth = 2;
 
-console.log
+console.log("I will make " + sitespermonth * months + " sites in " + months + " months.");
