@@ -7,3 +7,4 @@ Personal
 
 var months = 4;
 
+console
